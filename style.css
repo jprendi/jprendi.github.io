@@ -1,4 +1,4 @@
-/* CSS styles for all pages */
+/* CSS styles can go here */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -28,7 +28,6 @@ nav a {
 
 main {
     padding: 20px;
-    text-align: center;
 }
 
 footer {
